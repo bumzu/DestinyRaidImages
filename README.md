@@ -2,7 +2,7 @@
 Image archive of Maps, Encounter Mechanics, Loot Tables etc. in Destiny 2
 
 ### How to Use
-1. Use the menu on the top right of this README to find the raid you're looking for
+1. Use the menu on the top left of this README to find the raid you're looking for
 2. Right click on link --> Copy Link Address --> Paste in Discord. The image(s) should embed correctly.
 
 ## Crota's End
