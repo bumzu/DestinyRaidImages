@@ -2,8 +2,8 @@
 Image archive of Maps, Encounter Mechanics, Loot Tables etc. in Destiny 2
 
 ### How to Use
-1. Ctrl+F to find the encounter/raid you're looking for
-2. Copy/Paste Image into Discord etc.
+1. Use the menu on the top right of this README to find the raid you're looking for
+2. Right click on link --> Copy Link Address --> Paste in Discord. The image(s) should embed correctly.
 
 ## Crota's End
 1. [Abyss](https://raw.githubusercontent.com/bumzu/DestinyRaidImages/main/Crota's%20End/Abyss.jpg)
